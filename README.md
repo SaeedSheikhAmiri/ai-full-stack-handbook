@@ -16,6 +16,10 @@ A practical bilingual guide to **AI Full Stack engineering**: what the role mean
 
 ## What is inside? · محتوای راهنما
 
+This section describes the original AI Full Stack guide. The new careers article is linked below.
+
+این بخش محتوای راهنمای اصلی AI Full Stack را توضیح می‌دهد. مقالهٔ تازهٔ نقش‌های شغلی در بخش بعد آمده است.
+
 - Role definition and comparison with adjacent careers · تعریف نقش و مقایسه با نقش‌های نزدیک
 - Software, AI, data, evaluation, product, and operations skills · مهارت‌های نرم‌افزار، AI، داده، ارزیابی، محصول و عملیات
 - Architecture choices: code, RAG, tools, workflows, agents, and fine-tuning · تصمیم‌های معماری
@@ -23,6 +27,17 @@ A practical bilingual guide to **AI Full Stack engineering**: what the role mean
 - Security, tenant isolation, privacy, cost, and latency · امنیت، جداسازی داده، حریم خصوصی، هزینه و تأخیر
 - A **24-week roadmap** with deliverables and exit gates · نقشهٔ راه **۲۴هفته‌ای** با خروجی و معیار عبور
 - Three portfolio projects, interview preparation, and a first-week plan · سه پروژهٔ نمونه‌کار، آمادگی مصاحبه و برنامهٔ هفتهٔ اول
+
+## Emerging AI roles · نقش‌های تازهٔ عصر AI
+
+**What do these roles do, and which skills do they need?** A companion article covers 13 role families across engineering, marketing, creative work, and organizational adoption, plus Context Engineering, LLMOps, and the AI Generalist label. Each entry includes responsibilities, core and extension skills, and a portfolio exercise.
+
+**این نقش‌ها چه کاری می‌کنن و چه مهارت‌هایی می‌خوان؟** مقالهٔ همراه، ۱۳ خانوادهٔ شغلی در مهندسی، مارکتینگ، کار خلاقه و استفادهٔ سازمانی رو معرفی می‌کنه؛ Context Engineering، ‏LLMOps و عنوان AI Generalist هم جدا بررسی می‌شن. هر مدخل، مسئولیت، مهارت‌های پایه و تکمیلی و تمرین نمونه‌کار داره.
+
+| فارسی | English |
+|---|---|
+| [مقالهٔ نقش‌ها و مهارت‌ها](articles/emerging-ai-roles.fa.md) | [Emerging AI roles and skills](articles/emerging-ai-roles.en.md) |
+| [منابع و محدودیت شواهد](resources/ai-roles-sources.md) | [Role evidence and source notes](resources/ai-roles-sources.md) |
 
 ## Start here · از اینجا شروع کنید
 
